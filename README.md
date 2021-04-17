@@ -1,7 +1,7 @@
 🤠 Howdy! 🤠    
 
 A little bit about me:  
-✨ I'm Sam Hall and I am a software engineer/full stack developer/web developer(whichever one works for you 🖤) and recent graduate from Flatiron School.  
+✨ I'm Sam Hall and I am a software engineer/full stack developer and recent graduate from Flatiron School.  
 ✨ My pronouns are she/her.  
 ✨ Read my blog posts on [Medium](https://samhalll.medium.com/).  
 ✨ Connect with me on [LinkedIn](https://www.linkedin.com/in/sam-l-hall/).    
