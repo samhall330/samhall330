@@ -1,5 +1,7 @@
 🤠 Howdy! 🤠    
 
+💥 I am currently [Open to Work!](https://www.linkedin.com/in/sam-l-hall/) 💥  
+
 A little bit about me:  
 ✨ I'm Sam Hall and I am a software engineer/full stack developer and recent graduate from Flatiron School.  
 ✨ My pronouns are she/her.  
