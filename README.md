@@ -22,5 +22,5 @@ My Skills:
 
 Fun Facts:  
 🦑 I do stand up comedy in New York City!  
-🦑 I can crush a soda can between my shoulder blades!  
+🦑 I grew up in Oklahoma 🌪 
 🦑 I could beat you at Galaga!  
