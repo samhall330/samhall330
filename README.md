@@ -1,16 +1,17 @@
-### Hi there 👋
+🤠 Howdy! 🤠
 
-<!--
-**samhall330/samhall330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
+✨ I'm Sam Hall and I am a full stack developer/software engineer and recent graduate from Flatiron School.
+✨ My pronouns are she/her
+✨ Read my blog posts on [Medium](https://samhalll.medium.com/)
+✨ Connect with me on [LinkedIn](https://www.linkedin.com/in/sam-l-hall/)
 
-Here are some ideas to get you started:
+My Projects:
+🤖 ArtCraft [Frontend](https://github.com/samhall330/ArtCraftFrontend) & [Backend](https://github.com/samhall330/ArtCraftBackend) | ArtCraft [App Demo](https://youtu.be/7JWl2oUmVds)
+🤖 TipSee [App Demo](https://youtu.be/6YKwBB09EME)
+🤖 Comedian Findr [Frontend](https://github.com/evaldman/ComedianFindrFrontEnd) & [Backend](https://github.com/evaldman/ComedianFindrBackEnd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts:
+🦑 I do stand up comedy in New York City!
+🦑 I can crush a soda can between my shoulder blades!
+🦑 I could beat you at Galaga!
