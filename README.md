@@ -19,6 +19,7 @@ My Skills:
 🍳 React.js  👀  
 🍳 HTML 🖥  
 🍳 CSS 👾  
+🍳 Video Editing (Adobe Premiere Pro) 🎞
 
 Fun Facts:  
 🦑 I do stand up comedy in New York City!  
